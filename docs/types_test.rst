@@ -1,3 +1,7 @@
+=============
+TYPES OF TEST
+=============
+
 Installation test
 =================
 
@@ -10,12 +14,14 @@ Test the initial configuration of the system (if applicable).
 **Who:** Tester.
 
 Update test
+===========
 
 **What:** Test the system update from N-1 version to N version.
 
 **Who:** Tester.
 
 Unit test
+=========
 
 **What:**
 
@@ -64,6 +70,7 @@ Assert.js
 Who: Developers.
 
 Component/Contract test
+=======================
 
 What:
 
