@@ -94,6 +94,8 @@ Types of test
 
 `Types of Test </en/latest/types_test.html>`_
 
+:doc:`types_test`
+
 Data Set Strategy
 -----------------
 
