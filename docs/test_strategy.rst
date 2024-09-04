@@ -104,6 +104,7 @@ Data Set Strategy
 =================
 
 It can any one of the followings:
+
 - The software is installed with an empty database and a data injector creates the data set.
 - An anonymized copy of the production database is used as baseline of the test data set.
 - An anonymized copy of the production database is used followed by the creation of additional data if the production copy lacks prerequisite data for some test cases.
@@ -119,6 +120,7 @@ A different set of deliverables is required before, during and after testing.
 
 Deliverables before test execution
 ----------------------------------
+
 - Conception and specification of test cases for newly developed user-stories/functionalities.
 - Conception of persistent standard data and pseudo-random test data for test environments.
 - Creation of test campaign.
@@ -134,6 +136,7 @@ Deliverables during test execution
 
 Deliverables after test execution
 ---------------------------------
+
 - Test execution report (for both manual and automated tests).
 - List of created bug tickets.
 
@@ -150,6 +153,7 @@ If the outcome is considered to be positive, the release candidate under test ca
 The Go/No-Go meeting will be held after the test campaign has been finished.
 
 A test campaign is considered to be finished when the following tasks have been completed:
+
 - Creation of the test campaign in the test management software.
 - Execution of the entire test campaign.
 - Documentation of all bugs detected during the test campaign in the bug tracker.
