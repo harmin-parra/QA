@@ -7,7 +7,7 @@ INTRODUCTION
 The test strategy is a plan that outlines the test approach, goals, scope, processes, resources and timelines.
 
 Intended Audience
-============
+=================
 
 - Chief Technical Officer
 - Product Owner
@@ -17,19 +17,20 @@ Intended Audience
 - Testers
 
 Document Review and Approval
-============
+============================
 
 The present Test Strategy document shall be reviewed and approved by:
 - Chief Technical Officer
 - Product Owner
 
 Project Background
-============
+==================
 
 `TODO` Short description of the project
 
+===============
 TEST OBJECTIVES
-============
+===============
 
 Software testing aims at improving software quality.
 The main broad objectives of software testing are:
@@ -38,6 +39,7 @@ The main broad objectives of software testing are:
 - Verification of technical requirements.
 - Assess software usability.
 
+=============
 TEST APPROACH
 =============
 
