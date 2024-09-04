@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'QA'
+project = 'QA docs'
 copyright = '2024, Harmin Parra Rueda'
 author = 'Harmin Parra Rueda'
 
