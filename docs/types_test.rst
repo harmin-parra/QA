@@ -30,42 +30,18 @@ The typical usage of unit test is to verify the methods of a class.
 
 Some unit testing frameworks:
 
-Programming language
++----------------------+----------------------+---------------------+
+| Programming language | Unit test frameworks | Assertion libraries |
++======================+======================+=====================+
+| Java                 | JUnit <br> TestNG    |                     |
+-----------------------+----------------------+---------------------+
+| Python               | Unittest <br> Pytest |                     |
+-----------------------+----------------------+---------------------+
+| .Net                 | NUnit <br> xUnit.net |                     |
+-----------------------+----------------------+---------------------+
 
-Unit test frameworks
+| Node.js              | Jest <br> Mocha <br> Jasmine <br> Karma | Chai <br> Assert.js |
 
-Assertion libraries
-
-Java
-
-JUnit
-TestNG
-
-
-
-Python
-
-Unittest
-Pytest
-
-
-
-.Net
-
-NUnit
-xUnit.net
-
-
-
-Node.js
-
-Jest
-Mocha
-Jasmine
-Karma
-
-Chai
-Assert.js
 
 Who: Developers.
 
@@ -107,7 +83,6 @@ It allows testing the business rules while bypassing integration with one or mor
 **Who:**
 
 Developers in the case of deep intra-module/intra-component APIs. (same as contract testing)
-
 Testers in case of external APIs.
 
 System test
@@ -145,7 +120,6 @@ Verify both valid and invalid boundary values for a given functionality.
 **Who:**
 
 Developers at a microcosmic level (unit, contract testing).
-
 Tester at a macrocosmic level (e2e testing, external API testing).
 
 Security test
@@ -181,7 +155,6 @@ Update external components regularly to avoid outdated and vulnerable versions o
 **Who:**
 
 Developer at a microcosmic level (unit, contract testing).
-
 Tester at a macrocosmic level (e2e testing, API testing).
 
 Acceptance test
@@ -211,7 +184,6 @@ Localization test
 **Who:**
 
 Developer at a microcosmic level (unit, contract testing).
-
 Tester at a macrocosmic level (e2e testing, API testing).
 
 Compatibility test
