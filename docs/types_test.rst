@@ -72,7 +72,7 @@ Who: Developers.
 Component/Contract test
 =======================
 
-What:
+**What:**
 
 Verify a component works properly in isolation or with mocked integration to other components.
 
@@ -80,23 +80,23 @@ Components generate integrate to each other through Soap/Rest APIs or asynchrono
 
 Contract testing consist in mocking such endpoints to verify both consumers and providers.
 
-Who: Developers.
+**Who:** Developers.
 
 Integration test
 ================
 
-What:
+**What:**
 
 Verify that any pair of components work together properly when communicating with each other.
 
 If the given pair needs in turn to communicate with other components, such communications will be mocked (see contract testing).
 
-Who: Developers.
+**Who:** Developers.
 
 API test
 ========
 
-What:
+**What:**
 
 Can be seen as a subset of integration test.
 
@@ -104,7 +104,7 @@ An API is verified with all components or a subset of components fully integrate
 
 It allows testing the business rules while bypassing integration with one or more components (example: testing business rules without using the GUI).
 
-Who:
+**Who:**
 
 Developers in the case of deep intra-module/intra-component APIs. (same as contract testing)
 
@@ -113,12 +113,12 @@ Testers in case of external APIs.
 System test
 ===========
 
-What:
+**What:**
 
 Verify that entire system, with the complete and fully integrated components, works properly.
 Also know as end-to-end test.
 
-Who: Tester.
+**Who:** Tester.
 
 Functional test
 ===============
@@ -151,7 +151,7 @@ Tester at a macrocosmic level (e2e testing, external API testing).
 Security test
 =============
 
-What:
+**What:**
 
 Authentication
 --------------
@@ -197,24 +197,27 @@ Verify technical requirements (Performance, load, stress).
 **Who:** Tester and Product Owner
 
 Usability test
+==============
 
-What: Verify whether the application is user-friendly.
+**What:** Verify whether the application is user-friendly.
 
-Who: Tester and Product Owner
+**Who:** Tester and Product Owner
 
 Localization test
+=================
 
-What: Verify software behavior for specific locations, regions and countries (time zone, language, currency, etc).
+**What:** Verify software behavior for specific locations, regions and countries (time zone, language, currency, etc).
 
-Who:
+**Who:**
 
 Developer at a microcosmic level (unit, contract testing).
 
 Tester at a macrocosmic level (e2e testing, API testing).
 
 Compatibility test
+==================
 
-What: Verify the software works properly across different operating systems, browser and devices.
+**What:** Verify the software works properly across different operating systems, browser and devices.
 
-Who: Tester.
+**Who:** Tester.
 
