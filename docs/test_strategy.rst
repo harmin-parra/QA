@@ -20,6 +20,7 @@ Document Review and Approval
 ============================
 
 The present Test Strategy document shall be reviewed and approved by:
+
 - Chief Technical Officer
 - Product Owner
 
@@ -34,6 +35,7 @@ TEST OBJECTIVES
 
 Software testing aims at improving software quality.
 The main broad objectives of software testing are:
+
 - Bug detection.
 - Verification of software correctness (functionalities).
 - Verification of technical requirements.
@@ -44,7 +46,7 @@ TEST APPROACH
 =============
 
 Processes
----------
+=========
 
 Description of the main QA processes that take place within the Agile/Scrum-Master framework.
 
@@ -69,7 +71,7 @@ User-Story validation phase
 - Verification of fixed bugs (if any).
 
 User-Story post-validation phase
-------------------------------
+--------------------------------
 
 - Development of automated tests.
 - Execution of test scenarios.
@@ -90,6 +92,7 @@ Software release phase
 
 Roles and Responsibilities
 ==========================
+
 `TODO`
 
 Types of tests
