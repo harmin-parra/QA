@@ -28,7 +28,7 @@ The present Test Strategy document shall be reviewed and approved by:
 Project Background
 ------------------
 
-`TODO` Short description of the project
+``TODO`` Short description of the project
 
 TEST OBJECTIVES
 ===============
@@ -51,7 +51,7 @@ Description of the main QA processes that take place within the Agile/Scrum-Mast
 
 **User-Story specification phase**
 
-Definition of user-story acceptance tests.
+- Definition of user-story acceptance tests.
 
 **User-Story development phase**
 
@@ -87,7 +87,7 @@ Definition of user-story acceptance tests.
 Roles and Responsibilities
 --------------------------
 
-`TODO`
+``TODO``
 
 Types of test
 -------------
@@ -154,14 +154,14 @@ The final decision taken in the Go/No-Go meeting is the responsibility of the Pr
 TEST TOOLS
 ==========
 
-`TODO`
+``TODO``
 
 TEST AUTOMATION INFRASTRUCTURE
 ==============================
 
-`TODO`
+``TODO``
 
 TEST ENVIRONMENTS
 =================
 
-`TODO`
+``TODO``
