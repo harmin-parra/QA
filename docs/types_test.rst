@@ -83,6 +83,7 @@ Contract testing consist in mocking such endpoints to verify both consumers and 
 Who: Developers.
 
 Integration test
+================
 
 What:
 
@@ -93,6 +94,7 @@ If the given pair needs in turn to communicate with other components, such commu
 Who: Developers.
 
 API test
+========
 
 What:
 
@@ -109,6 +111,7 @@ Developers in the case of deep intra-module/intra-component APIs. (same as contr
 Testers in case of external APIs.
 
 System test
+===========
 
 What:
 
@@ -118,46 +121,50 @@ Also know as end-to-end test.
 Who: Tester.
 
 Functional test
+===============
 
-What:
+**What:**
 
 Positive tests
+--------------
 
-jkhjkhjk
+- Verify that a functionality works as expected/specified.
 
-
-
-Verify that a functionality works as expected/specified.
-
-Verify the nominal case and alternative valid cases.
+- Verify the nominal case and alternative valid cases.
 
 Negative / Error handling tests
+-------------------------------
 
 Verify the system handles error cases and displays proper error messages.
 
 Boundary-value test
+-------------------
 
 Verify both valid and invalid boundary values for a given functionality.
 
-Who:
+**Who:**
 
 Developers at a microcosmic level (unit, contract testing).
 
 Tester at a macrocosmic level (e2e testing, external API testing).
 
 Security test
+=============
 
 What:
 
 Authentication
+--------------
 
 Verify that only known and activated users can get access to the system.
 
 Authorization (Access Control)
+------------------------------
 
 Verify that users can only access ressources according to their roles/profiles.
 
 Pentest
+-------
 
 In-depth security and intrusion tests.
 
@@ -171,22 +178,23 @@ Update external components regularly to avoid outdated and vulnerable versions o
 
 ⚠️ The so-called “technical debt” needs to be avoided.
 
-Who:
+**Who:**
 
 Developer at a microcosmic level (unit, contract testing).
 
 Tester at a macrocosmic level (e2e testing, API testing).
 
 Acceptance test
+===============
 
-What:
+**What:**
 
 Verify software correctness (functional requirements are implemented according to the
 specifications).
 
 Verify technical requirements (Performance, load, stress).
 
-Who: Tester and Product Owner
+**Who:** Tester and Product Owner
 
 Usability test
 
