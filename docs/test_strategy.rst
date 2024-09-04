@@ -1,9 +1,14 @@
 # Test Strategy
 
-# INTRODUCTION
+============
+INTRODUCTION
+============
+
 The test strategy is a plan that outlines the test approach, goals, scope, processes, resources and timelines.
 
-## Intended Audience
+Intended Audience
+============
+
 - Chief Technical Officer
 - Product Owner
 - Product Manager
@@ -11,15 +16,21 @@ The test strategy is a plan that outlines the test approach, goals, scope, proce
 - Developers
 - Testers
 
-## Document Review and Approval
+Document Review and Approval
+============
+
 The present Test Strategy document shall be reviewed and approved by:
 - Chief Technical Officer
 - Product Owner
 
-## Project Background
+Project Background
+============
+
 `TODO` Short description of the project
 
-## TEST OBJECTIVES
+TEST OBJECTIVES
+============
+
 Software testing aims at improving software quality.
 The main broad objectives of software testing are:
 - Bug detection.
@@ -27,30 +38,46 @@ The main broad objectives of software testing are:
 - Verification of technical requirements.
 - Assess software usability.
 
-## TEST APPROACH
-### Processes
+TEST APPROACH
+=============
+
+Processes
+---------
+
 Description of the main QA processes that take place within the Agile/Scrum-Master framework.
-#### User-Story specification phase
+
+User-Story specification phase
+------------------------------
+
 Definition of user-story acceptance tests.
-#### User-Story development phase
+
+User-Story development phase
+----------------------------
+
 - Specification of user-story passing tests.
 - Specification of user-story non-passing tests.
 - Specification of test scenarios involving the user-story and other functionalities.
 
-#### User-Story validation phase
+User-Story validation phase
+---------------------------
+
 - Execution of exploratory tests.
 - Execution of user-story passing & non-passing tests.
 - Bug reporting (if any).
 - Verification of fixed bugs (if any).
 
-#### User-Story post-validation phase
+User-Story post-validation phase
+------------------------------
+
 - Development of automated tests.
 - Execution of test scenarios.
 - Execution of non-regression tests.
 - Bug reporting (if any).
 - Verification of fixed bugs (if any).
 
-#### Software release phase
+Software release phase
+----------------------
+
 - Definition of test scope (Ideally full non-regression).
 - Creation of test campaign.
 - Execution of test campaign.
@@ -59,13 +86,18 @@ Definition of user-story acceptance tests.
 - Go/No-Go decision.
 - Reporting of test campaign results.
 
-## Roles and Responsibilities
+Roles and Responsibilities
+==========================
 `TODO`
 
-## Types of tests
+Types of tests
+==============
+
 Types of Test
 
-## Data Set Strategy
+Data Set Strategy
+=================
+
 It can any one of the followings:
 - The software is installed with an empty database and a data injector creates the data set.
 - An anonymized copy of the production database is used as baseline of the test data set.
@@ -73,27 +105,37 @@ It can any one of the followings:
 
 In case that an anonymized copy of the production database is used, it is necessary to define the frequency or the criteria to update such database copy.
 
-# TEST DELIVERABLES
+=================
+TEST DELIVERABLES
+=================
+
 Test deliverables refer to a list of documents, tools, and other tangible artifacts that must be created, provided, and maintained to support testing activities in a project.
 A different set of deliverables is required before, during and after testing.
 
-## Deliverables before test execution
+Deliverables before test execution
+----------------------------------
 - Conception and specification of test cases for newly developed user-stories/functionalities.
 - Conception of persistent standard data and pseudo-random test data for test environments.
 - Creation of test campaign.
 
-## Deliverables during test execution
+Deliverables during test execution
+----------------------------------
+
 - Creation/Update of automation test scripts.
 - Update of data injector utility (if any).
 - Execution of manual and automated tests.
 - Update tests execution status in test campaign.
 - Creation/Update of bug tickets.
 
-## Deliverables after test execution
+Deliverables after test execution
+---------------------------------
 - Test execution report (for both manual and automated tests).
 - List of created bug tickets.
 
-# EXIT CRITERIA
+=============
+EXIT CRITERIA
+=============
+
 Exit criteria is the set of conditions for permitting the test campaign to be officially completed.
 
 The outcome of the test campaign can be either positive or negative, decided in a Go/No-Go meeting between the stakeholders.
@@ -111,11 +153,20 @@ A test campaign is considered to be finished when the following tasks have been 
 
 The final decision taken in the Go/No-Go meeting is the responsibility of the Product Officer and Product Manager.
 
-# TEST TOOLS
+==========
+TEST TOOLS
+==========
+
 `TODO`
 
-# TEST AUTOMATION INFRASTRUCTURE
+==============================
+TEST AUTOMATION INFRASTRUCTURE
+==============================
+
 `TODO`
 
-# TEST ENVIRONMENTS
+=================
+TEST ENVIRONMENTS
+=================
+
 `TODO`
