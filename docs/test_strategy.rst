@@ -119,14 +119,14 @@ Test deliverables refer to a list of documents, tools, and other tangible artifa
 A different set of deliverables is required before, during and after testing.
 
 Deliverables before test execution
-----------------------------------
+==================================
 
 - Conception and specification of test cases for newly developed user-stories/functionalities.
 - Conception of persistent standard data and pseudo-random test data for test environments.
 - Creation of test campaign.
 
 Deliverables during test execution
-----------------------------------
+==================================
 
 - Creation/Update of automation test scripts.
 - Update of data injector utility (if any).
@@ -135,7 +135,7 @@ Deliverables during test execution
 - Creation/Update of bug tickets.
 
 Deliverables after test execution
----------------------------------
+=================================
 
 - Test execution report (for both manual and automated tests).
 - List of created bug tickets.
