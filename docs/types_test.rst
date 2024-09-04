@@ -48,7 +48,7 @@ Some unit testing frameworks:
 |                      | * Karma              |                     |
 +----------------------+----------------------+---------------------+
 
-Who: Developers.
+**Who:** Developers.
 
 Component/Contract test
 =======================
