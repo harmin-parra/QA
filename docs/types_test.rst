@@ -97,6 +97,7 @@ System test
 **What:**
 
 Verify that entire system, with the complete and fully integrated components, works properly.
+
 Also know as end-to-end test.
 
 **Who:** Tester.
