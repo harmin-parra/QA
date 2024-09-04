@@ -10,7 +10,7 @@ QA
 Documentation about QA test strategy.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Contents:
 
    test_strategy
