@@ -1,5 +1,3 @@
-# Test Strategy
-
 ============
 INTRODUCTION
 ============
