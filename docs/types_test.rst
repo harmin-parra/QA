@@ -88,6 +88,7 @@ It allows testing the business rules while bypassing integration with one or mor
 **Who:**
 
 Developers in the case of deep intra-module/intra-component APIs. (same as contract testing)
+
 Testers in case of external APIs.
 
 System test
@@ -125,6 +126,7 @@ Verify both valid and invalid boundary values for a given functionality.
 **Who:**
 
 Developers at a microcosmic level (unit, contract testing).
+
 Tester at a macrocosmic level (e2e testing, external API testing).
 
 Security test
@@ -160,6 +162,7 @@ Update external components regularly to avoid outdated and vulnerable versions o
 **Who:**
 
 Developer at a microcosmic level (unit, contract testing).
+
 Tester at a macrocosmic level (e2e testing, API testing).
 
 Acceptance test
@@ -189,6 +192,7 @@ Localization test
 **Who:**
 
 Developer at a microcosmic level (unit, contract testing).
+
 Tester at a macrocosmic level (e2e testing, API testing).
 
 Compatibility test
