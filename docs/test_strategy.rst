@@ -95,8 +95,8 @@ Roles and Responsibilities
 
 `TODO`
 
-Types of tests
-==============
+Types of test
+=============
 
 Types of Test
 
