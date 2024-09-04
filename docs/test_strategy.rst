@@ -92,7 +92,7 @@ Roles and Responsibilities
 Types of test
 -------------
 
-`Types of Test </types_test>`_
+`Types of Test </en/latest/types_test>`_
 
 Data Set Strategy
 -----------------
