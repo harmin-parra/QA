@@ -153,9 +153,9 @@ The choice of the web development framework is paramount. Several of them (e.g.,
 
 ⚠️ Special attention needs to be paid on software external components:
 
-Pick well-known external components.
+* Pick well-known external components.
 
-Update external components regularly to avoid outdated and vulnerable versions of such components.
+* Update external components regularly to avoid outdated and vulnerable versions of such components.
 
 ⚠️ The so-called “technical debt” needs to be avoided.
 
