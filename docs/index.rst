@@ -7,7 +7,7 @@
 QA
 ====================
 
-Pytest plugin to automatically capture screenshots upon selenium webdriver events.
+Documentation about QA test strategy.
 
 .. toctree::
    :maxdepth: 2
