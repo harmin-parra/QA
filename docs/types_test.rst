@@ -33,19 +33,19 @@ Some unit testing frameworks:
 +----------------------+----------------------+---------------------+
 | Programming language | Unit test frameworks | Assertion libraries |
 +======================+======================+=====================+
-| Java                 | *JUnit               |                     |
-|                      | *TestNG              |                     |
+| Java                 | * JUnit              |                     |
+|                      | * TestNG             |                     |
 +----------------------+----------------------+---------------------+
-| Python               | *Unittest            |                     |
-|                      | *Pytest              |                     |
+| Python               | * Unittest           |                     |
+|                      | * Pytest             |                     |
 +----------------------+----------------------+---------------------+
-| .Net                 | *NUnit               |                     |
-|                      | *xUnit.net           |                     |
+| .Net                 | * NUnit              |                     |
+|                      | * xUnit.net          |                     |
 +----------------------+----------------------+---------------------+
-| Node.js              | *Jest                | *Chai               |
-|                      | *Mocha               | *Assert.js          |
-|                      | *Jasmine             |                     |
-|                      | *Karma               |                     |
+| Node.js              | * Jest               | * Chai              |
+|                      | * Mocha              | * Assert.js         |
+|                      | * Jasmine            |                     |
+|                      | * Karma              |                     |
 +----------------------+----------------------+---------------------+
 
 Who: Developers.
